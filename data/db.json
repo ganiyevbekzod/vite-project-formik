@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "qwq@gmail.com",
+      "password": "$2a$10$mkLt/VhOAqpczb7Y2RYKY.Ub6iCzRllhSObSjp7GyU2T/58weTLde",
+      "First_name": "ppp",
+      "Last_name": "qqqq",
+      "id": 1
+    },
+    {
+      "email": "ganiyev@gmail.com",
+      "password": "$2a$10$/xaG7fwDhSce6ChAREV5UubdInrEkaDhZhLCZvrS/tl5U7629LqzC",
+      "First_name": "bekzod",
+      "Last_name": "ganiyev",
+      "id": 2
+    }
+  ],
+  "posts": []
+}
